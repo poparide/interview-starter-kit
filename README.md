@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Install **Node.js 22** (`nvm use` reads `.nvmrc`)
+- Install **Node.js 24** (`nvm use` reads `.nvmrc`)
 - Install **Expo Go** on your phone, or use an iOS Simulator / Android emulator
 - **iPhone only:** create a free account at [expo.dev](https://expo.dev), sign
   in to it in Expo Go, and run `npx expo login` in `apps/mobile` with the same
